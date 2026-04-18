@@ -1,0 +1,12 @@
+terraform-provider-poststack
+*.test
+*.out
+coverage.txt
+.DS_Store
+.env
+vendor/
+dist/
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
